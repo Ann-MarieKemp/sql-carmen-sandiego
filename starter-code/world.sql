@@ -7,7 +7,7 @@
 
 BEGIN;
 
-SET client_encoding = 'LATIN1';
+-- SET client_encoding = 'LATIN1';
 
 CREATE TABLE city (
     id integer NOT NULL,
